@@ -52,9 +52,9 @@ EvergreenHUD - Improves your heads up display.
 
 DashLoader - Launch at the speed of light.
 
-Inventory Profiles Next - Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
-
 Ok Zoomer - Adds a highly-configurable zoom key for Fabric. The zoom is yours!
+
+Inventory Profiles Next - Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
 
 LambdaBetterGrass - A Minecraft mod which adds better grass and snow to the game.
 
@@ -440,9 +440,9 @@ Polymer - Library for creating better server side content!
 
 Horse Stats Vanilla - This client-side mod displays the statistics (health, speed, jump height) of horses in their inventory.
 
-Better Recipe Book -  Adds a 'few' quality of life changes to the recipe book. 
-
 Requiem - Completely changes the death system by adding new mechanics such as player souls and undead possession
+
+Better Recipe Book -  Adds a 'few' quality of life changes to the recipe book. 
 
 MCDiscordChat - MCDiscordChat (MCDC), a practical and powerful Fabric and Quilt Minecraft <> Discord chat bridge inspired by BRForgers/DisFabric
 
@@ -592,9 +592,9 @@ Light Overlay - A simple mod to provide users with NEI-like light level overlay.
 
 Cosmetica - Free custom capes and cosmetics for Minecraft
 
-Bosses of Mass Destruction - Adds boss fights to minecraft
-
 Fabric Seasons - A simple mod that adds seasons to the game, dynamically changing biomes as you play.
+
+Bosses of Mass Destruction - Adds boss fights to minecraft
 
 Skyblocker Modpack - This modpack includes common clientside utilities along with the skyblocker liap mod.
 
@@ -836,11 +836,11 @@ Particle Blocker - Adds a GUI to pick and choose particles to not render.
 
 BadStdOut - Tells you which mod uses System.out
 
-Advanced Netherite - A vanilla and add-on friendly, open-source mod that adds in more tiers of Netherite!
-
 Basic Shields [Fabric] - Adds vanilla-style shields for each material. All shields fully support banners!
 
 Server Tick -  Makes the F3 TPS graph work on servers 
+
+Advanced Netherite - A vanilla and add-on friendly, open-source mod that adds in more tiers of Netherite!
 
 Stacker - Change the stack size of all items!
 
@@ -866,9 +866,9 @@ Grappling Hook Mod - A mod which adds grappling hooks and other fun ways to move
 
 Villagers-Follow-Emeralds-Fabric - Villagers will follow you when holding Emerald blocks/ore
 
-qCraft Reimagined - A reimagination of qCraft for modern Minecraft.
-
 True Darkness - Moody brightness not dark enough?  Do you want moonless nights and unlit caverns to be pitch black?  This mod is for you!
+
+qCraft Reimagined - A reimagination of qCraft for modern Minecraft.
 
 Soul Ice - A mod about the next in Ice Tech
 
@@ -916,11 +916,11 @@ VanitySlots - Vanity armor that covers your normal armor!
 
 Compat O' Plenty - Compat O' Plenty integrates a few popular mods with Biomes O' Plenty for a more complete experience! 
 
+Observable - See what's lagging your server.
+
 JsonEM - Data driven entity model library
 
 Better Clouds - Beautiful clouds in touch with the vanilla style
-
-Observable - See what's lagging your server.
 
 Immersive Engineering - Retrofuturism, industry and multiblocks!
 
@@ -1114,9 +1114,9 @@ Yoru - A pre-configured, high performance and QoL optimised vanilla modpack with
 
 FastDecay - A simple mod to make leaf blocks decay alot faster
 
-Refined Magic - A mod about expanding the magic system
-
 Multi World Borders - Makes world borders work per dimension
+
+Refined Magic - A mod about expanding the magic system
 
 Simple Copper Pipes - Adds vanilla-friendly copper pipes to Minecraft!
 
@@ -1138,9 +1138,9 @@ Hey That's Mine - A fabric mod for a container claiming and trusting system.
 
 MobDisguises - Showcasing the possibilities of DisguiseLib library.
 
-Chat Lag Fix -  Fixes Minecraft client lag from receiving chat messages (for 1.17 and 1.16)
-
 microDurability - A very minimal armor durability viewer
+
+Chat Lag Fix -  Fixes Minecraft client lag from receiving chat messages (for 1.17 and 1.16)
 
 Roundaround's Pickup Notifications - Show popup notifications when you pick up items.
 
@@ -1182,9 +1182,9 @@ NBT Tooltip - Shows items' NBT data in their tooltip
 
 Sculk - Adds working and accurate Sculk to Minecraft!
 
-Player Events - Sends a configurable message/command when a player dies and leaves or joins the server
-
 Adrenaline - Minimal, base performance layer that tries to make the game as fast as possible.
+
+Player Events - Sends a configurable message/command when a player dies and leaves or joins the server
 
 AdvancedChatHUD - Chat tabs and a brand new design. Tons of customization. 
 
@@ -1210,11 +1210,11 @@ FabricCrossDimTPFix - Fixes a bug where the player doesn't get sent their XP and
 
 Chalk (Fabric) - Fabric port of the forge mod chalk by mortuusars with some additions 
 
+MiniMOTD - Minecraft plugin/mod to set the server list MOTD using MiniMessage for formatting, supporting RGB colors. 
+
 Harvest Scythes - Harvest crops in an area
 
 Endermantic Overhaul - A mod helping you to enslave endermen in order to place blocks!
-
-MiniMOTD - Minecraft plugin/mod to set the server list MOTD using MiniMessage for formatting, supporting RGB colors. 
 
 HorseInBoat - Simple Minecraft mod that makes it easy to put horses in boats.
 
@@ -1454,9 +1454,9 @@ TweakerPlus - A collection of client-side tweak kits for enhance your Minecraft 
 
 Ensorcellation - Adds many polished and configurable enchantments to the game.
 
-Statues - A little decorative and functional mod
-
 BetterSleeping Revived - This mod adds sleep notifications, gives sleeping players buffs and debuffs to the ones who haven't slept in a long time!
+
+Statues - A little decorative and functional mod
 
 Dynamic Crosshair Compat - Mod compatibility for Dynamic Crosshair
 
@@ -1506,9 +1506,9 @@ AdvancedChatBox - Complex suggestions, spell check, and tab completion added in 
 
 CompactChat - Clean up your chat by removing duplicate messages!
 
-Stonecutter Recipe Tags - A library which allows for creating stonecutter recipes with tags, saving on JSON files.
-
 Hookshot - A mod that just adds some simple hookshots to the game.
+
+Stonecutter Recipe Tags - A library which allows for creating stonecutter recipes with tags, saving on JSON files.
 
 Player Roles - Role & permission management for Fabric servers
 
@@ -1572,11 +1572,11 @@ Experience Bottler - Add a block that can be used to bottle any quantity of expe
 
 Boosted Brightness - Set your brightness beyond default levels.
 
-ColoredGlow Lib - Library to make entities glow different colors other than vanilla
-
 FabSit - Sit in Fabric!
 
 Egg Of Capitalism - Get a dragon egg for every "The End." achievement. 
+
+ColoredGlow Lib - Library to make entities glow different colors other than vanilla
 
 What's That Slot? - Utility that highlights which items can be placed in an item slot.
 
@@ -1726,9 +1726,9 @@ Cyan - Adds a few commands for survival Minecraft server and client
 
 Dark Graph - A client mod that changes the debug frame graphs to use a dark theme.
 
-Et Futurum Requiem - A continuation of the old Et Futurum mod, by ganymedes01
-
 TimeOutOut - Configure connection timeouts from client to server.
+
+Et Futurum Requiem - A continuation of the old Et Futurum mod, by ganymedes01
 
 TickTools - A fabric mod for tick modification and management
 
@@ -1770,9 +1770,9 @@ Better End Sky - Ripoff of the Better End mod's sky renderer in a standalone mod
 
 Gravestones - A gravestones mod for fabric with tons of config options, an API, and more! 
 
-Simple HUD Utilities - A collection of small improvements to the Game's HUD
-
 TraderNPCs - A Taterzens addon that adds ability to create GUI traders.
+
+Simple HUD Utilities - A collection of small improvements to the Game's HUD
 
 JsMacros - Macro and Scripting mod supporting many events and triggers.
 
@@ -1876,9 +1876,9 @@ Mining Helmet - Add lights source that you could wear.
 
 Parry - Block with your sword! Just like old times!
 
-Satin API - A Fabric library to help modders with shader usage
-
 Big Pony - Ah AM a big pony!
+
+Satin API - A Fabric library to help modders with shader usage
 
 SimpleChat - Chat mod for Fabric servers - A small mod for a customizable chat, with the most simple settings
 
@@ -2046,13 +2046,13 @@ Extension - A Vanilla client/server compatible mod in the vein of Essentials
 
 Slabs From Wood - Adds slabs made from wood and logs to Minecraft. Nothing else.
 
+Otyacraft Engine - Felnull integration mod library.
+
 Discord4Fabric - A beautiful Discord bot client for Fabric
 
 KoroWorld-Lib - It integrates Hutool-All 5.8.3 with JavaWebSocket.
 
 Stormfest - Adds a Charged Music Disc dropped by Charged Creepers killed by Skeletons.
-
-Otyacraft Engine - Felnull integration mod library.
 
 Apugli - An addon to Apoli/Origins for use with certain mods/datapacks.
 
@@ -2114,9 +2114,9 @@ NoWheel - a simple minecraft mod that disables scroll wheel in hotbar
 
 Translater - Corrupt minecraft text by translating it back and forth
 
-Old School Minecraft - Bring back the Alpha/Beta feel of Minecraft!
-
 Economical Villager Trading - Villagers restock buy trades when you use up a sell trade, and vice versa.
+
+Old School Minecraft - Bring back the Alpha/Beta feel of Minecraft!
 
 Better Resource Pack Sorting - Upgrades the sorting used for resource packs
 
@@ -2326,9 +2326,9 @@ No Shield Delay - A recreation of Revvilo's Responsive Shields in Fabric.
 
 Vampirism Integrations - Addon to Vampirism providing more mod integrations
 
-Better Chat - Client-side chat enhancement mod
-
 Do a Barrel Roll - Microsoft flight simulator for Minecraft elytras.
+
+Better Chat - Client-side chat enhancement mod
 
 Legacy Display - Bring back the Minecraft legacy display! You can now have the Legacy Title Screen, the Legacy Loading Screen, the legacy FPS Display, the legacy Chunk Update Display, the legacy Minecraft Version Display, and a Coordinates Display and it's fully customizable in the config!
 
@@ -2380,11 +2380,11 @@ Zombify - Prevents villagers from dying when converting to zombie villagers on a
 
 Unvoted & Shelved - Gives life to the mobs that lost the votes.
 
+Yttr - A mod about the Void, what has gone before, and where you'll go from here. A vanilla overhaul crossed with a content mod.
+
 Nikolite Expansion - Adds block versions of Nikolite to the Industrial Revolution mod
 
 Freedom of Insomnia - Completely server-side mod for Fabric that allows players to disable phantom spawning (doInsomnia) individually. You're free to stay awake as long as you want now!
-
-Yttr - A mod about the Void, what has gone before, and where you'll go from here. A vanilla overhaul crossed with a content mod.
 
 playerAnimator - animate the player
 
@@ -2436,13 +2436,15 @@ Preventer - A mod that prevents you from doing dumb things by accident.
 
 Chunk By Chunk - Creates a world with a single chunk, and allows additional chunks to be added over time
 
+Sneak Through Berries - Lets you sneak through Sweet Berry Bushes without taking damage
+
 Defibrillator - A server utility mod for messing with NBT
 
 Scrollable Tooltips - Adds the ability to scroll through tooltips that are larger than the screen
 
 Editable Player NBT Hack - Removes the probably artificial limitation in the vanilla game of disallowing the editing of player NBT data.
 
-Sneak Through Berries - Lets you sneak through Sweet Berry Bushes without taking damage
+Head Name Fix - Mob heads will keep their custom names when placed
 
 Sakura Blossoms - Changes the color of the particles from the Spore Blossom to be pink ✨
 
@@ -2453,8 +2455,6 @@ ItemSorterMod - Allows players to sort their inventory quick and put items in co
 Nether Flowers - Nether flowers will decorate a boring nether well.
 
 Bountiful - Adds bounty boards, giving rewards for collecting different blocks and items.
-
-Head Name Fix - Mob heads will keep their custom names when placed
 
 Better Safe Bed - This mod solved you won't able to sleep even you're safe sometimes because of a random mob stay in the cave that under your base, outside the wall, or on the roof
 
@@ -2488,9 +2488,9 @@ One Key Miner - This mod adds the ability to chain tools to break blocks while s
 
 Apollo's Additional Structures - Adds some new vanilla-esque ambient structures into your world!
 
-Mesh - Modding Library
-
 FoxGlow - Makes foxes and players glow when they eat glow berries!
+
+Mesh - Modding Library
 
 Organized Tabs [Fabric] - Re-organizes the items in the Minecraft creative inventory.
 
@@ -2610,9 +2610,9 @@ Air Hop - A new enchantment for jumping while in midair. Not once, not twice, bu
 
 No More Purple - A client-side mod allowing you to choose your enchantment glint color!
 
-#SP Wallet - A mod for counting your diamond ores.
-
 MoreVanillaArmor - Armor made of vanilla material
+
+#SP Wallet - A mod for counting your diamond ores.
 
 Dyeable Fishing Lines - A Mod That Lets You Dye Fishing Rod Lines
 
@@ -2746,6 +2746,8 @@ World Blender - Fabric - A dimension with all the features, structures, surfaces
 
 Hbm's Nuclear Tech Mod Reloaded - HBM's Nuke Mod now ported to 1.12.2
 
+Quilt Kotlin Libraries - Quilt's official Kotlin libraries
+
 NotEnoughOrigins - Origins addon that adds more origins into the original mod and adds some custom items
 
 Food Effects - Re-balancing the foods of Minecraft!
@@ -2753,8 +2755,6 @@ Food Effects - Re-balancing the foods of Minecraft!
 playerless - mobs drop exp & loot regardless of death cause
 
 Essential - Essential is a free quality of life mod for Minecraft. 
-
-Quilt Kotlin Libraries - Quilt's official Kotlin libraries
 
 No Nametag Render - disables rendering of name tags
 
@@ -2786,9 +2786,9 @@ Item Stitching Fix - Removes the annoying gap in Item Models!
 
 Copper Overhaul - A Vanilla-Plus mod that adds new copper block variations, a wrench tool, an upgrade system for armors, a chest locking system, and elevator mechanics using magnetism.
 
-Wooden Utilities - Wooden Utilities, an all-new Minecraft Mod that adds more Wood-Related items to your daily Minecraft Experience.
-
 Essentials - Bugfixes and Un-Patches Mojang doesn't care about.
+
+Wooden Utilities - Wooden Utilities, an all-new Minecraft Mod that adds more Wood-Related items to your daily Minecraft Experience.
 
 Timestamp Chat - Adds timestamps to chat.
 
@@ -2798,6 +2798,8 @@ FabricPvP - /pvp toggle
 
 Playlist - Control Minecraft's in-game music - In-game music player
 
+First-person Model - Enables the third-person Model in first-person
+
 SlotLock - A simple client-side mod that let you lock your slots.
 
 AfkDisplay - Show which players are afk in the player list.
@@ -2805,8 +2807,6 @@ AfkDisplay - Show which players are afk in the player list.
 Unsuspicious Stew (Reloaded) - Minecraft mod using the Fabric modloader which displays the effect of a suspicious stew item.
 
 Ninjin Knockback - This mod add a proportional knockback when players or entities are attacking each over and also push back entities/players when stronger players are charging their ki.
-
-First-person Model - Enables the third-person Model in first-person
 
 Durability101 - A rewrite of the original Durability101 mod 
 
@@ -2878,13 +2878,13 @@ Somnia Awoken - Simulating the world while you sleep
 
 Passable Leaves - Leaves have no collision box now
 
-FilledTotheBrim - Shulker Boxes Can Now Fit Empty Shulker Boxes!
-
 Stefan's Armors'N'Items - All the custom armors's and items from "BetterVanillaBuilding" as their own package.
 
-Galacticraft-Legacy - The classic Minecraft space mod
-
 Wires - A server utility mod
+
+FilledTotheBrim - Shulker Boxes Can Now Fit Empty Shulker Boxes!
+
+Galacticraft-Legacy - The classic Minecraft space mod
 
 Auto Crouch - Automatically crouches when opening a GUI
 
@@ -2922,6 +2922,8 @@ Valhelsia Core - API for the Valhelsia mods and friends.
 
 Mob Capturing Tool - A Minecraft mod adding a mob capturing tool.
 
+TexTrue's Rubidium Options - Reese's Sodium Options Unofficial Forge port
+
 Infinity Mending - Forge mod that lets you combine Infinity and Mending.
 
 Supernatural Crops - A Mystical Agriculture esque mod for fabric 
@@ -2936,7 +2938,7 @@ Pettable Bees - A Minecraft mod that lets you pet bees
 
 Playtimer - Play time in bottom-right corner, inspired by Grian/Scar/Joel's Hardcore Series
 
-TexTrue's Rubidium Options - Reese's Sodium Options Unofficial Forge port
+Anvil Crushing Recipes - Datapacks can define what happens when an anvil lands on a particular block.
 
 Roughly Enough Items Server Component (REI-SC) - A mod to implement the REI server networking protocol to handle server-specific features.
 
@@ -2949,8 +2951,6 @@ Blinking Skin Port - Allows you to toggle 2nd skin layers automatically with con
 Apollo - A modern space mod in development for Minecraft
 
 Origins - AdditionalAdditions Addon - Adds support for AdditionalAdditions to Origins.
-
-Anvil Crushing Recipes - Datapacks can define what happens when an anvil lands on a particular block.
 
 Assemble - A dynamic recipe library to replace vanilla's.
 
@@ -3000,6 +3000,8 @@ Better Name Visibility - Increases the visibility of names behind blocks
 
 Pet Transfer - A simple mod for Fabric that lets you create contracts that can transfer ownership of pets and other tameable creatures.
 
+CommandSpy - A server-side command logging mod.
+
 ARRP - Runtime Asset/Data Generation API
 
 FoodMod - Adds more food to Minecraft!
@@ -3007,8 +3009,6 @@ FoodMod - Adds more food to Minecraft!
 TrashSlot - Adds a trash slot to the inventory screen that allows deletion of unwanted items.
 
 Telepistons - Telescopic and Squishy animations for pistons
-
-CommandSpy - A server-side command logging mod.
 
 Fabric Recipe Conditions (FRC) - A library that adds recipe conditions
 
@@ -3242,6 +3242,8 @@ OriginsTweaks - This Mod overhauls the Standard Origins from the Origins Mod.
 
 Cold Sweat - Adds a dynamic, extensible temperature system to Minecraft
 
+No Teleport Cooldown - This mod removes the cooldown for things that teleport you!
+
 PlayerHighlighter - Entity tracer / ESP for tracking players and entities in general.
 
 RefinedCreativeInventory - Overhauls the creative inventory with better searching, fresh GUI, and powerful saved hotbars.
@@ -3249,8 +3251,6 @@ RefinedCreativeInventory - Overhauls the creative inventory with better searchin
 Dispenser Configurator - Configure the vanilla Dispenser to work with any item's use (right-click) functionality. 
 
 Easy Magic - Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.
-
-No Teleport Cooldown - This mod removes the cooldown for things that teleport you!
 
 Images - Lets you print images on blocks
 
@@ -3350,6 +3350,8 @@ CC: Restitched with Polymer -  ComputerCraft for vanilla compatible servers.  Po
 
 Slider ClickSoundFix - Fixes the UI-Sound playing twice when buttons are pressed, and a slider is behind those (example: entering the sound settings)
 
+Bushy Biomes - Adds bushy leaves and biome variation to your game
+
 A Sprinkle of Enhancements - This modpack is just your normal optimization-based modpack with a few visual adjustments.
 
 Vanilla Notebook  - A small vanilla-styled mod that adds a notebook into your GUI.
@@ -3363,8 +3365,6 @@ scale fix - The solution to Minecraft's GUI scale problems.
 FabricWarps - FabricWarps is a small, server-side Fabric mod that adds /warp command and its counterparts
 
 EvilCraft - An evil mod for Minecraft
-
-Bushy Biomes - Adds bushy leaves and biome variation to your game
 
 Map Saver - A client only mod that allows you to save maps from item frames as images
 
@@ -3382,6 +3382,8 @@ PonySocks - Socks for your miniature equines
 
 Happiness (is a) Warm Gun - Simple but nice gun mod
 
+Kahur - A gun that shoots junk
+
 The Legend of Herobrine - Adds Herobrine to Minecraft with an emphasis on adventure and exploration
 
  Tropicraft [Unoffical] - A updated version of tropicraft for forge and fabric 
@@ -3389,8 +3391,6 @@ The Legend of Herobrine - Adds Herobrine to Minecraft with an emphasis on advent
 Rotten Flesh To Leather - Allows you to smelt Rotten Flesh into Leather.
 
 Colossal Chests - For when regular chests are too small
-
-Kahur - A gun that shoots junk
 
 Better Barriers - Renders Barrier blocks in an improved way.
 
@@ -3454,6 +3454,8 @@ ProtoSky - Removes (almost) all blocks from the world after they generated
 
 Boring Backgrounds - A mod that makes the dirt background customizable. Supports resource packs!
 
+Pronounify - PronounDB in Minecraft
+
 Simple Chunkloader [FABRIC] - This mod adds a simple chunkloader for fabric.
 
 Nox - A mob and difficulty overhaul for Fabric.
@@ -3463,8 +3465,6 @@ OF Capes - Adds Optifine capes for Fabric
 BetterRecipes - Adds a bunch of recipes to minecraft
 
 Conditional Keep Inventory - A mod to twist the drop on Player death.
-
-Pronounify - PronounDB in Minecraft
 
 Scooters - Miners need mobility too
 
@@ -3702,11 +3702,15 @@ Mattocks Remastered: Paxels but Fabric - Paxels but with a Fabric twist
 
 World Blender - Forge - A dimension with all the features, structures, surfaces, and natural spawns from vanilla and your mods shoved in!
 
+🗿QuiltGoSlightlyFasterLol🗿 - 🔥Quilt-Loader optimization mod (it makes quilt-loader faster).🔥
+
 Permanent Light Generator - Solar generators packed up are not enough.
 
 Incantation - Incantation invites you to explore ancient spells and talents in this new Fabric mod for 1.18+!
 
 More Statistics - A simple mod to more statistics to Minecraft
+
+Celestria - Adds celestrial events, such as shooting stars and occasional insomnia from full moon.
 
 Wrench - A simple tool to rotate blocks.
 
@@ -3720,8 +3724,6 @@ SimpleHomes - A simple /home mod for fabric
 
 Pocket Tools - Tools you can fit in your pocket
 
-🗿QuiltGoSlightlyFasterLol🗿 - 🔥Quilt-Loader optimization mod (it makes quilt-loader faster).🔥
-
 Shiny Horses - Adds the ability to enchant horse armor!
 
 Bobber Begone - A simple fabric client mod that removes the bobber render when hooked
@@ -3733,8 +3735,6 @@ Remember My Txt -  Remember My Txt makes sure unrecognized values in the options
 Universal Bone Meal - Stop the bonemeal discrimination! Grow all plants, no limitations.
 
 AutoJump KeyBind - Set up hotkey for autojump.
-
-Celestria - Adds celestrial events, such as shooting stars and occasional insomnia from full moon.
 
 GraveStone Mod - Places a gravestone with your inventory items inside when you die
 
@@ -3796,6 +3796,8 @@ Electrical Age 2 - Electricity - In your base!
 
 Colour My Servers - Allows you to give colour to your servers and worlds!
 
+ Unofficial Sodium Biome Blending Fix - An unofficial patch for Sodium that prevents it from blending colours of unwanted blocks
+
 Absent by Design - Adds models and code for the blocks; adds zero textures.  The mod pulls textures from the relevant source block.  It can be overriden with reosurcepacks as normal.       Compatible with all resource packs.
 
 ToggleSprint - Allows you to toggle sprinting.
@@ -3805,8 +3807,6 @@ Prodigy Tech - Tech mod powered on hot air and unusual materials.
 End Remastered - Make your journey to the End more Challenging and Engaging with End Remastered!
 
 GalacticTweaks - Tweaking Mod for Galacticraft
-
- Unofficial Sodium Biome Blending Fix - An unofficial patch for Sodium that prevents it from blending colours of unwanted blocks
 
 Trading Post - Rule the village! Trade with every villager at once!
 
@@ -4002,6 +4002,8 @@ Mubble - Expand your world with features from the Nintendo universe, and way mor
 
 Guess What Will Happen In This - Social experiment where everyone can PR anything.
 
+Switchy - Commands for switching between nothing - which includes nicknames, origins, skins, inventories, and more.
+
 Moving Elevators - Moving Elevators adds real Elevators to Minecraft!
 
 Punch 2 Prime - A one-mixin mod to use Mojang's emulation of pre-Beta 1.7 TNT!
@@ -4011,8 +4013,6 @@ Tempad - Create a portal to anywhere from anywhere
 Middleground - Options menus: OptiFine is cluttered. Sodium is out of place. Let's meet in the middle!
 
 Divine Origins - An Origins extension that adds various mythology related origins
-
-Switchy - Commands for switching between nothing - which includes nicknames, origins, skins, inventories, and more.
 
 ReCraft - Mod which expands on vanilla features which would add blocks, add variations to balanced gear, food, etc. 
 
@@ -4058,6 +4058,8 @@ AdiCrafter - An automated crafting table
 
 Simple Buffers - Configurable buffers for easy automation
 
+Limits' Grapple - Adds a grappling hook that lets you swing around and just have fun :)
+
 Stairdoors - A simple mixin to allow placing doors on stairs!
 
 MCDoom - Adds content from Doom to Minecraft.
@@ -4079,8 +4081,6 @@ Durability Notifier - Durability Notifier is a mod that shows you when your tool
 retiNO - Say "NO!" to Retina.
 
 LoTAS - Tools for creating Tool Assisted Speedruns
-
-Limits' Grapple - Adds a grappling hook that lets you swing around and just have fun :)
 
 Black_dogs's Modding Library (BML) - A core library for my mods going forward
 
@@ -4110,6 +4110,8 @@ Ores Above Diamonds (Fabric) - The Ores Above Diamonds Mod adds the Amethyst and
 
 Stalwart Dungeons - 🏰 Adds hard dungeons for adventurers who want to collect relics and atrifacts
 
+Aurora's Decorations - A decorations-focused Minecraft mod.
+
 Paladin's Furniture Mod - A Modern Furniture mod for Minecraft where things are functional!
 
 Practical Barrels - Practical Barrels is a fully-clientside Fabric-based Minecraft mod designed to offer a unique sorting mechanism for barrels.
@@ -4125,8 +4127,6 @@ Wynnglance - Item rarity underlays for Wynncraft perfectionists
 Immersive Amethyst - A balanced way of getting Budding Amethyst blocks.
 
 Windowlogging - Put Windows inside other blocks
-
-Aurora's Decorations - A decorations-focused Minecraft mod.
 
 Detailed Debug Pie - Various improvements for the F3 debug pie
 
@@ -4184,7 +4184,11 @@ Not Enough Space - This is a modpack for the (private) Not Enough Space SMP
 
 Miku_Mod - A mod by mcst12345
 
+Affectionate - A mod about player interactions, made for Modfest: Singularity.
+
 Supremely Optimized - Minecraft optimization as it should be... 
+
+Pl3xMap v2 - Minimalistic and lightweight world map viewer for Paper servers using the vanilla rendering style
 
 Cauldrons - Adds more stuff you can do with cauldrons!
 
@@ -4198,23 +4202,19 @@ RustedIron - Adds in the ability for Iron to rust when placed in the world, like
 
 Entity Modifiers - Entity modifiers are files in data packs that can change entity properties.
 
+Blast Travel - Fast transportation using cannons
+
 Infinitory - Infinite inventory and stack size!
 
 WAYF? - Where Are You From? - A serverside-only Fabric mod that adds the corresponding mod name to items in the lore
 
-Affectionate - A mod about player interactions, made for Modfest: Singularity.
-
 Walled Garden - Control access to your server based on users installed mods.
-
-Pl3xMap v2 - Minimalistic and lightweight world map viewer for Paper servers using the vanilla rendering style
 
 Book of the Day - Librarian Villagers offer a different Enchanted Book trade every day!
 
 Magnum Torch - Powerful torches to prevent mob spawns around your home in a large area.
 
 Ember's lightweight worldgen pack - A pack mostly focused on worldgen, using only mods from Modrinth!
-
-Blast Travel - Fast transportation using cannons
 
 Tula's Mod Bundle - A Tula's mod bundle slightly enhances the vanilla Minecraft gaming experience.
 
@@ -4240,6 +4240,8 @@ Fabric Death Messages - a fabric mod that let's you customize various death mess
 
 Dimension Fix (Some Forge Patches Ported) - Fixes dimensions all being removed when 1 gets removed.
 
+Scaffolding Extension - Extend scaffolding beyond the normal limit of 7
+
 Moar FPS - A simple mod for more fps. In fact, as many fps as you want.
 
 Vibes - Listen to music discs on the go with the Vibe
@@ -4248,7 +4250,7 @@ Ad Astra (Fabric) - Live long and prosper, Ad Astra!
 
 Experience Remover - This mod removes experience and makes enchantment tables and anvils purely cosmetic. The mod can be enabled and disabled in the config.
 
-Scaffolding Extension - Extend scaffolding beyond the normal limit of 7
+Trinkets (Polymer Port) - Trinkets but with Polymer and Fabric Server Side™
 
 BetterFlying - Makes creative flying more like it is on Bedrock edition. 
 
@@ -4263,8 +4265,6 @@ Periodic - A Mod that adds elements from the periodic table to Minecraft
 Regional Chat - A mod that limits the range a player can talk and be heard via text chat
 
 SimpleDropInventory - Automatically drop items into the player's inventory
-
-Trinkets (Polymer Port) - Trinkets but with Polymer and Fabric Server Side™
 
 Curse of Curses - A mod which applies a random curse with a configurable chance each night to a random enchantable item in players inventory.
 
@@ -4382,9 +4382,13 @@ Basic Materials - Basic metals and materials for other mods to use.
 
 WiiDude's Custom Origins - An addon mod for origins.
 
+Bella - A single feature mod that adds the ability to put bells on animals.
+
 DaylightChangerStruggle - A fully client-sided time changer mod which features the ability to cycle smoothly.
 
 The Forgotten Forest - Enter a forgotten land filled with a whole new world of possibilities
+
+Moovy - "Overhaul" minecraft's movement to be akin to movement shooters
 
 Boson Fabricated - A vanilla plus mod in the same vein as Charm.
 
@@ -4404,15 +4408,13 @@ Farmer's Delight - A cozy expansion to farming and cooking!
 
 LinsAPI - An API for my mods
 
-Bella - A single feature mod that adds the ability to put bells on animals.
-
 Piercing Paxels - Dynamic Upgradable Multi-tools!
 
 Enchantment Groups - Easy to set up Enchantment Exclusivity using Groups
 
-Borderless - Minecraft Client Window Borderless
+The Printer - Duplicate items at the cost of experience and time
 
-Moovy - "Overhaul" minecraft's movement to be akin to movement shooters
+Borderless - Minecraft Client Window Borderless
 
 Better Punching - A minecraft mod, making punching and breaking blocks much more realistic!
 
@@ -4422,6 +4424,8 @@ Bestiary - A modpack built around 'Lycanites Mobs' and 'Ice and Fire' for a mons
 
 Universe Box - Adds a pocket dimension block
 
+Relativity - Take control over the flow of time.
+
 Ancient Warfare 3 - A continuation of Ancient Warfare for 2022.
 
 Vanilla Experience - Why not, Mojang? - A Vanilla compatible (Forge & Fabric) mod that reenable things and adds some vanilla kind features!
@@ -4430,9 +4434,9 @@ Shulker Tooltip - Move your mouse cursor over a shulker box to see what's inside
 
 Collisions Lib - Collisions Lib is a small mod which gives all mobs a solid hitbox.
 
-Hytools - A mod that has useful tools for Hypixel
+Big Fan of It - Adds a functional fan based on real life fan!
 
-The Printer - Duplicate items at the cost of experience and time
+Hytools - A mod that has useful tools for Hypixel
 
 CombustibleEntities - Allows for directly setting entities on fire
 
@@ -4444,11 +4448,11 @@ No Double Tap Sprint - Disables the double-tap-forward sprinting mechanic (and c
 
 More Chickens - Resources from chickens
 
-Relativity - Take control over the flow of time.
-
 Minecart Booster - Configure your minecart's speeds!
 
 Raise Sound Limit Simplified - A mod that raises Minecraft sound sources limit in a simple way
+
+Kettle - Kotlin Mod library for Quilt
 
 Ender IO - Endergy -  Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc. 
 
@@ -4462,19 +4466,19 @@ Mimics - Mimics lurk in the world, waiting to eat your loot. Should you be cleve
 
 Lightest Lamps - Mod adds lamps with larger range and special ones.
 
-Big Fan of It - Adds a functional fan based on real life fan!
-
 Stellar Paths - Another origins mod. But, more like origins classes.
 
+Drogtor the Nickinator - A simplistic nickname mod
+
 Lib39 - Useful mixins, events, and utilities originating in Yttr.
+
+Bouncy Castle! - Multicolored blocks that you can bounce off the sides of!
 
 GraphiX - A server sided mod to display Luckperms chat meta.
 
 Pretty Beaches - Adjusts water physics when digging sand near water to prevent ugly.
 
 Vianô's Vanilla+  - Mixed Mod by Bilâl 
-
-Kettle - Kotlin Mod library for Quilt
 
 Yardwork - Yardwork tools in Minecraft.
 
@@ -4486,17 +4490,15 @@ Phantoms See Phantoms [Origins Addon] - Makes the origin "Phantom" be able to se
 
 Silky hands -  A minecraft mod that makes a specified player (or players) drop the exact block they break (Basically dsmp ranboo)
 
-Drogtor the Nickinator - A simplistic nickname mod
-
 Paradise Mod - A mod that makes many improvements to Minecraft and adds lots of new content
 
 Quick Turn Mod - Pressing a configurable key will make the player do a 180
 
 Autocrafting Table - An extremely basic implementation of an autocrafting table with a template.
 
-Bouncy Castle! - Multicolored blocks that you can bounce off the sides of!
-
 Death Flashback - Allowing teleporting to your death point when you have a recovery compass in your main hand and an ender pearl in your off hand.
+
+Whipdashing - A Powerful Mobility Tool!
 
 Flat Lighting - A simple mod that disables shading on all models which makes lighting appear more flat. 
 
@@ -4526,9 +4528,9 @@ Mendable Anvils (Fabric) - A mod that allows players to fix their anvils by shif
 
 more underground structures - Ads a few underground structures.
 
-Whipdashing - A Powerful Mobility Tool!
-
 You can't damage me! - Simple mod adding few gamerules controlling taking damage by player
+
+Polaroid - Adds a Polaroid camera to Minecraft
 
 Woodiertexas' Desserts - Adds various desserts to Minecraft. (Currently a placeable pumpkin pie for now)
 
@@ -4549,8 +4551,6 @@ ZiiM-Hud - A nice simple modular hud to display useful information.
 Valkyrien Skies - Airships
 
 Aliases - Displays username history for a player through a server-side command.
-
-Polaroid - Adds a Polaroid camera to Minecraft
 
 Armor Render Lib - Small extension library to Fabric API's ArmorRenderer, with more targeted and specific implementation to dynamically change armor texture and color.
 
@@ -4584,6 +4584,8 @@ Traverse: Legacy - Adds beautiful new biomes with a Vanilla feel.
 
 More Respawn Anchors - A simple mod that adds more Respawn Anchors to the game.
 
+Biome Technologies™ - Manipulate biomes with technology™
+
 I'm Feeling Lucky - Modifies the vanilla loot table such that you get more stuff
 
 Tinkers Bounce Pad - This mod adds an updated version of the Bounce Pad from Tinkers' Construct 1.6.4
@@ -4593,6 +4595,8 @@ Control Engineering - Redstone control and logic for Immersive Engineering
 Polypack Host - Automatically build, host and require all your installed polymer mods resources!
 
 Better Shields - Speeds up shields 
+
+Lucky Ducks - Adds cute lil rubber ducks 
 
 Carpet Sky Additions - Carpet extension providing empty world generation with new ways to obtain resources
 
@@ -4604,7 +4608,7 @@ Perspective Mod Redux - 360 degree third person view
 
 Vanilla Shears - Adds more shears using vanilla tool materials
 
-Biome Technologies™ - Manipulate biomes with technology™
+Vegan't Meat Fields - Grow any vanilla meat from a crop, side effects may be unsanitary.
 
 Particle Moths - Adds moths to your world using particles.
 
@@ -4614,9 +4618,9 @@ We do a miniscule amount of Warden buffery - Buffs the Warden and makes it drop 
 
 Fabripresence - Configurable Discord Rich Presence for Fabric
 
-Item Collectors - Item Collectors adds Collectors which collect items in a specified range!
+Scarves - Comfortable dynamic simulated cloth trinkets
 
-Lucky Ducks - Adds cute lil rubber ducks 
+Item Collectors - Item Collectors adds Collectors which collect items in a specified range!
 
 Elytra Recast - Bounce of the ground instead of landing with elytra
 
@@ -4632,8 +4636,6 @@ AutoWB - Mod that automatically says welcome back to players that join back into
 
 ChromaHudFabric - A Buggy Port of ChromaHud to Legacy Fabric
 
-Vegan't Meat Fields - Grow any vanilla meat from a crop, side effects may be unsanitary.
-
 Nitrogen - A small and lightweight modpack for better Vannila experience
 
 XP Share - Adds a command to give xp to friends!
@@ -4643,8 +4645,6 @@ ExtraOrigins - AdventureZ Addon - Adds support for AdventureZ to ExtraOrigins.
 Any one of us - Adds some features of our favourite French mercenary
 
 Fortunate Ores - Iron, Copper and Gold ores (seemingly) drop themselves when mined, while still allowing Fortune to have an effect without exploitation
-
-Scarves - Comfortable dynamic simulated cloth trinkets
 
 Blaze Head Recipe for Tinker's Construct - It adds craft for blaze head.
 
@@ -4678,6 +4678,8 @@ Cherry Blossom Grotto - Add a new biome to your Minecraft world with the introdu
 
  always-drop-loot - 1.18.1 Fork - Make mobs always drop exp and loot, regardless of cause of death.
 
+Attraction - Makes Lodestones and Netherite Blocks magnetic, attracting magnetic items and blocks
+
 EnchantmentTweaker - A library for modders to tweak various core properties of enchantments
 
 TwitchLink - Link livestream chat on Twitch to your Minecraft chat! (one way)
@@ -4694,8 +4696,6 @@ Item Commander - A simple Serverside Fabric mod that allows you to assign comman
 
 Ender IO - Inv Panel - Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc.
 
-Attraction - Makes Lodestones and Netherite Blocks magnetic, attracting magnetic items and blocks
-
 Gift it - This mod is here to be a gorgeous replacement for your ugly duct tape mods.
 
 Volatile Entity Cramming - Makes entities explode when there are too many in one place
@@ -4709,6 +4709,8 @@ FeyFriends - Mod to display the number of certain players on the screen.
 Mending Tools Don't Break - Stops tools enchanted with mending from breaking.
 
 Heart of the Machine - A whole new dimension of abandoned machinery to explore
+
+Boat with Everything - The Boat with Chest is cool, I guess, but I want to put more things in my boat
 
 Extra Discs - Extra Discs is a Fabric mod for Minecraft aiming to add more vanilla feeling music discs to the game.
 
@@ -4752,7 +4754,7 @@ GregFood - Traditional Chinese Food
 
 Hardened Crops - Makes the distance needed to fall in order to trample farmland configurable.
 
-Boat with Everything - The Boat with Chest is cool, I guess, but I want to put more things in my boat
+"Better" Smoke - Makes campfire smoke "better" (more realistic)
 
 KirinSkinFix - Fixes transparent skins in Kirin UI!
 
@@ -4774,13 +4776,17 @@ Fusions Grappling Hook - A mod that adds a vanilla friendly fun grappling hook t
 
 LogUnSpam - Simply a mod to filter logs that you don't want.
 
-"Better" Smoke - Makes campfire smoke "better" (more realistic)
+Engination - Charming Conventional Cubes and Convention Center Curiosities
 
 Fabricated-Forge - Load Forge mods on Fabric Loader.
 
 Light Block - Fabric - Implements the Light Block from Bedrock into Fabric
 
+Create Ore Excavation - Extract resources using machines powered by Rotational Force
+
 Saplanting - Auto-plant all kinds of sapling-item drops, support 2x2 trees.
+
+Switchy Inventories - Addons for Switchy affecting balance. Swappable inventories, including trinkets.
 
 MC Folders - A Minecraft mod that allows you to change directories for your worlds and resource packs.
 
@@ -4798,10 +4804,6 @@ Skyblock Mod (Fabric) - Helpful Features for Hypixel Skyblock for Fabric 1.17+
 
 HELP! I'm being framed! - Blocks with customizable textures
 
-Engination - Charming Conventional Cubes and Convention Center Curiosities
-
-Create Ore Excavation - Extract resources using machines powered by Rotational Force
-
 AntiIgnoringChunk - Removes annoying "Ignoring chunk since it's not in the view range" log messages
 
 Layer Control - Layer Control is a fabric mod that allows you to control which layers should be rendered.
@@ -4810,7 +4812,7 @@ No Gizmo - Removes the gizmo from the Debug (F3) screen.
 
 CC: Tweaked for Fabric (Discontinued) - A port of CC: Tweaked to Fabric.
 
-Switchy Inventories - Addons for Switchy affecting balance. Swappable inventories, including trinkets.
+Soul Under Sculk (SUS) - Transform into a very Suspicious being of Sculk.
 
 Diorite - Diorite is an inventory utility for mass-dropping items deemed worthless. Trash loadouts are customizable, and the mod is fully-clientside.
 
@@ -4826,7 +4828,11 @@ Almost Unified - Unify all resources.
 
 Cursed Mod - Minecraft Cursed mod for Fabric
 
+La Cucaracha - Adds Roaches to the game! Roaches are nasty bugs who eat dropped food, but beware of swarms!
+
 MahjongCraft - Playing Japanese(Riichi) Mahjong in Minecraft!
+
+It's Poppin'! - A silly popcorn mod.
 
 No Bar - Removes the chat indicator introduced in 1.19.1 for message types
 
@@ -4834,13 +4840,9 @@ Doctor Who - Weeping Angels - Mod that adds the quantum locked creatures from Do
 
 No Recipe Book Reborn - Removes the buttons for the recipe book.
 
-Soul Under Sculk (SUS) - Transform into a very Suspicious being of Sculk.
-
 Linking Books - Teleport between dimensions using linking books from the Myst video game series
 
 Diamond Nuggets - There's iron and gold nuggets, why not diamond nuggets? (Forge/Fabric)
-
-La Cucaracha - Adds Roaches to the game! Roaches are nasty bugs who eat dropped food, but beware of swarms!
 
 ParadoxConfig - Kotlin-based Config API
 
@@ -4851,8 +4853,6 @@ Fireman - Adds a hotkey that toggles instantly punching out all fires in reach.
 EffectMC - Trigger special effects live in-game! Minecraft Forge and Fabric versions available!
 
 Flight Rings - Two flight rings which grant creative flight
-
-It's Poppin'! - A silly popcorn mod.
 
 Bottled Allays - A mod that lets you store allays in bottles. 
 
@@ -4880,6 +4880,8 @@ noclip - Adds a way to noclip in any game mode, like spectator mode
 
 No more Infinite Water - prevents water becoming infinite outside select biomes
 
+Aptitude - Villager profession additions
+
 Bundle Jumble - Place blocks from your bundle randomly to assist in building
 
 Easier Powdered Snow - Serverside mod that makes farming powdered snow easier
@@ -4898,6 +4900,8 @@ Arathain's Serverside Shenanigans - serverside "improvements" to the game
 
 Lightstones - Adds emissive stones inspired by Bionicle
 
+Mineball - Adds a football
+
 LootJS: KubeJS Addon - A Minecraft mod for packdevs to easily modify the loot system with KubeJS.
 
 Short Grass - Fabric mod that will make grass shorter and less obstructive
@@ -4910,8 +4914,6 @@ Cozy Cabincore - C3 - Redwoods, flowers, cabin logs, and more!
 
 StarterPack - StarterPack will allow you to create a starter kit that is given to each player when they first log into the game.
 
-Aptitude - Villager profession additions
-
 Trailblazer - Dirt Trails!  Firewalker Boots!  Vanilla-friendly footpaths!!
 
 Botanical Machinery - Automating Botania is easier than you think
@@ -4922,7 +4924,9 @@ gatekeep - Remove the bar in chat & toast showing message sign status.
 
 Integrated Terminals - Terminals for managing and overviewing Integrated Dynamics networks
 
-Mineball - Adds a football
+ChewStuff - Adds Chew Necklaces to the game, which interact with potion effects.
+
+Cloak of Gray Tomorrow - Adds a cloak that gives you total invisibility... at a price.
 
 LightWithin - This mod lets free your very own inner light power. By realeasing the light within you you are going to be able to heal, defend and attack when you need the most! 
 
@@ -4936,6 +4940,8 @@ Anvil Delimited - Allows you to change the anvil's limit.
 
 Islands - A simple minecraft mod that adds a new World Type generating an endless ocean filled with islands.
 
+Minecalc - This mod was made for ModFest: Singularity. It adds a Calculator ingame, to make calculations you may need to do easy and fast.
+
 YesCheat - No more rubber-banding
 
 Wyrms of Nyrus - The Nyral Wyrms, now in your Minecraft worlds!
@@ -4948,23 +4954,19 @@ Oak's Ore Mod - Refabricated - A simple ore mod for Fabric 1.17
 
 Sessility - Keeps track of sessile creatures, more often known as "AFK players".
 
+Arcpocalypse - Let the chaos god spring anew
+
 Find - Search For Items - Quick search the inventory for a specific item
 
 Blast Rod - Adds a new Blast Rod block that breaks every movable block it is pushed into.
 
-ChewStuff - Adds Chew Necklaces to the game, which interact with potion effects.
-
 Daily Dad - A dad joke whenever you join a world
-
-Cloak of Gray Tomorrow - Adds a cloak that gives you total invisibility... at a price.
 
 Hypnos - Simple sleep vote mod
 
 More Golden Food - A mod that adds more Golden Food to Minecraft!
 
 Peripheralium - Library mod for all of my peripheral mods
-
-Minecalc - This mod was made for ModFest: Singularity. It adds a Calculator ingame, to make calculations you may need to do easy and fast.
 
 Powerfulparadox's Create Server Pack - A pack that was designed for my personal SMP, but might be useful to other Create mod players looking for a Vanilla-ish experience
 
@@ -4978,15 +4980,17 @@ EqualNBT - Removes the limitation for not modifying player NBT data
 
 Pipette - Pipette is a WYSIWYG pipe mod for items.
 
-Arcpocalypse - Let the chaos god spring anew
-
 Banilla Knives - A mod that adds vanilla-styled knives.
 
 Timber Frames - Build walls out of various timber frames and bring your medieval builds to the next level.
 
+Sharp Tone - An Instument, and a Weapon?
+
 Datapack Installer - A mod which allows you to select datapacks, compressed or as a folder, inside a folder during world creation without having to copy them.
 
 Cursed Mob Waifus - Adds cursed mob waifus to minecraft that protect monsters (including you).
+
+Meowing - Pick up your Cat and let it meow at stuff
 
 SwordsMod - This mod adds in basic swords that are stronger then diamond!
 
@@ -4998,11 +5002,15 @@ Sakura Rosea - A cherry tree biome mod (with a few more things)
 
 GLSL Panorama Shaders - This mod allows resource packs to add GLSL shaders for the title screen panorama
 
+Jar It! - You can put things in jars
+
 Crafting Bench - A utility mod that adds a custom crafting table with semi-automatic crafting
 
 Shield Expansion - Adds parrying, enchantments, tiers and customization to shields for more fun!
 
 mineQuery - A helping mod at client side
+
+pridestrips - A mod that adds strips of pride flag colored blocks to the overworld!
 
 BookUtils - Utilities for Minecraft books
 
@@ -5012,15 +5020,11 @@ More Beautiful Buttons - Buttons in more colors to bring beauty to your world
 
 Project Test - Adds anything!
 
-Sharp Tone - An Instument, and a Weapon?
-
 Conrad - A robust config library for Fabric
 
 EntityFireSpread - Allows for fire spreading from lit mobs 
 
 Random Respawns - Exactly what it says on the tin
-
-Meowing - Pick up your Cat and let it meow at stuff
 
 Up We Go! - Launch mobs into the skies with your choice of fireworks.
 
@@ -5029,6 +5033,8 @@ Admin Shop - Adds a configurable shop players can buy and sell items, fluids, an
 InfinityLib - InfinityRaider's Library mod
 
 Oh My Gourd! - Pumpkins! So many pumpkins!
+
+Emerald Expansions - Expansions for emeralds, because emeralds are boring. Made for ModFest: Singularity
 
 Speedy MTR - A high-performance, high-quality MTR mod pack.
 
@@ -5040,13 +5046,13 @@ Unwieldy - The way your hands are formed provide no way of holding a shield upri
 
 Sully's Mod - The goal of this mod is to add interesting features while still keeping a vanilla vibe
 
-pridestrips - A mod that adds strips of pride flag colored blocks to the overworld!
-
 Voyage - New biomes without a single new block or item.
 
 Map Printer - Save maps to images (client side)
 
 Balanced Recall - Mirrors and a mat
+
+Command Actions - Allows mcfunction files to be executed on various events
 
 Platter - Automate the feeding of yourself and others!
 
@@ -5056,6 +5062,8 @@ Ender Ore - Ender ore spawns in the world, giving an alternative means of gather
 
 PlantusMaximus - Plant more better!
 
+PotionCounter - shows how many potions you have left in your inventory
+
 "The Frost" Portal - This mod adds a portal to the "The Frost" dimension from the equally named Datapack
 
 No Name Tags - Disable the rendering of name tags
@@ -5063,8 +5071,6 @@ No Name Tags - Disable the rendering of name tags
 Enchanted Items - Enchant items in anvils
 
 BlossomLib - Library mod for Blossom-series Fabric mods
-
-Emerald Expansions - Expansions for emeralds, because emeralds are boring. Made for ModFest: Singularity
 
 Projector - Projector Mod is a client side mod that adds a custom picture block that can display images from the internet in your Minecraft world. 
 
@@ -5074,9 +5080,7 @@ Fatal Blow - Causes mobs to explode with a power depending on max health.
 
 Quick Elytra - Quick Elytra adds a keybind that lets you swap your equipped elytra/chestplate.
 
-Jar It! - You can put things in jars
-
-Command Actions - Allows mcfunction files to be executed on various events
+Runic Railguns - Railguns you can attach runes to.
 
 Arsenal Core - Base weapon mod based on realistic weapons.
 
@@ -5090,8 +5094,6 @@ Sneak Utils - Allows for different sneaking configurations per world/server.
 
 Ender IO - Forestry -  Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc. 
 
-PotionCounter - shows how many potions you have left in your inventory
-
 Bedventory - This mod was made for ModFest: Singularity. It is supposed to open the Inventory when going to sleep instead of opening the Chat. Who uses that in bed anyway?
 
 Autocomplete Command Blacklist - Autocomplete command blacklist for Fabric servers 
@@ -5103,6 +5105,8 @@ Useless Sword - 🔪 It's a mod that adds 76 new USEFUL swords to the game
 CyanLib - Library for anoyone tu use, with small utilities that I use in my mods
 
 Easy Piglins - Never get annoyed by bartering anymore!
+
+Carpet Without /player - Carpet Mod by gnembon but without the /player command.
 
 Strong crops - Configure farmland trample height ( gamerule )
 
@@ -5116,11 +5120,15 @@ Creative Keybind - Quickly change between Creative and Survival.
 
 Scalable Cat's Force - Scala library for mods for forge
 
+Colossal Cakes - Ever wanted h u g e cakes? Of course you have!
+
 FURC (Fabric Universal Remote Control) - The remote to control them all. With great power comes great responsibility.
 
 The Cavern Dimension - Adds a use for the portal in Ancient Cities and a spooky new dimension.
 
 Bamboo Combat - Adds Bamboo Combat Items!
+
+Echoes of the Past - A mod that adds an new item craftable using echo shards to Minecraft.
 
 Ender IO - TiC -  Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc. 
 
@@ -5140,6 +5148,8 @@ UnderFabric - An Undertale Minecraft mod because I couldn’t find any good ones
 
 Piglib - A mod to help other modders and datapack creators mess with Piglins
 
+Smunnel - Bend the rules of physics, compress space.
+
 Bits Of Bark - Allows fully configurable way of un-stripping log in a vanilla+ style
 
 Background Music Selector - Customize playback of ambient sounds and discs using /music
@@ -5147,8 +5157,6 @@ Background Music Selector - Customize playback of ambient sounds and discs using
 Better Background - Custom sized backgrounds to replace the dirt!
 
 Lacrimis - The tears that fall from Crying Obsidian are magical
-
-Carpet Without /player - Carpet Mod by gnembon but without the /player command.
 
 CarpetPlusPlus - A carpet extension focused on making more blocks renewable.
 
@@ -5164,15 +5172,11 @@ Fishery - Vanilla+ Fishing Expansion Mod
 
 Vanity Splash Text - Discover your mods through the splash texts!
 
-Colossal Cakes - Ever wanted h u g e cakes? Of course you have!
-
-Runic Railguns - Railguns you can attach runes to.
+FOX PLUSHIES!!!!! - adds really cute fox plushies to the game that you can hug :3
 
 Unlimited Chisel Works - Procedurally generated Chisel variants for various blocks provided by other mods.
 
 CraftingCraft - Adds an inventory crafting table and a normal portable one.
-
-Smunnel - Bend the rules of physics, compress space.
 
 Cursed Table - Makes EVERY enchantment available on an enchanting table
 
@@ -5192,9 +5196,11 @@ Cynical Villagers - an alternative to zombifying villagers over and over again
 
 So Many Enchantments [Fabric] - Revised version of the original so many enchantments
 
-Echoes of the Past - A mod that adds an new item craftable using echo shards to Minecraft.
+The Matchmakers - Adds matchsticks, matchbox that should in theory make it slightly more portable and more obtainable than Fire Charges.
 
 Squirting syringe - Various useful syringes mod.
+
+Mushroom Mod - Mod for Modfest Singularity, adds the Painshroom
 
 Memento Mori - Some very opinionated balancing for Requiem.
 
@@ -5212,6 +5218,8 @@ Interference API - Simple library adding common mixins
 
 Frictionless - Make blocks slippery!
 
+SimpleXP -  Simple storage of XP Made for ModFest: Singularity 2022. May not be maintained
+
 Entangled - Entangled allows you to 'entangle' two blocks together!
 
 Ko-fi Table - A mod to help add supporter bonuses to mods!
@@ -5220,11 +5228,9 @@ F5 Begone - Better F5
 
 Ender IO -  Ender IO is a full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc. 
 
-FOX PLUSHIES!!!!! - adds really cute fox plushies to the game that you can hug :3
-
 ServerMobs API - Server-side mob engine
 
-The Matchmakers - Adds matchsticks, matchbox that should in theory make it slightly more portable and more obtainable than Fire Charges.
+Height Halting Heels - Height Halting Heels from your favourite game series, Wormholes!
 
 Plus- - A pack focused on expanding vanilla mechanics and features.
 
@@ -5258,15 +5264,17 @@ Original Color Catgirl Mod - This is a meme mod about a friend of mine.
 
 Yet Another Optimization Pack (YAOP) - Meet the YAOP on Quilt, optimizing your game once again, but now with QOL mods!
 
+Jack o'Golem - Causes golems spawned with Jack o'Lantern's to be possessed.
+
 BetterLight - A small mod that improves lighting in Beta, client side
 
 Koremods - A Kotlin Script bytecode manipulation framework
 
-Mushroom Mod - Mod for Modfest Singularity, adds the Painshroom
-
 Don't Starve:Reborn - 1.12.2 unofficial remake version of No Starve To Death Mod.
 
 Fishing Real - Fish up real entities instead of the items! Configurable with Datapacks!
+
+Villager Befriending - Makes it possible to befriend villagers
 
 Weird Equipment - Adds some odd but useful equipment to the game
 
@@ -5278,21 +5286,17 @@ Sticky Elytra - Makes Elytra KeepInventory
 
 Hopper Speed Simulator - Change hopper transfer speed!
 
-SimpleXP -  Simple storage of XP Made for ModFest: Singularity 2022. May not be maintained
-
 Wither Skeleton Totem - Makes grinding for mob drops more interesting
 
 Woodcutter Compats - A simple mod which adds additional wood types to charm and environmental's woodcutters
 
-Height Halting Heels - Height Halting Heels from your favourite game series, Wormholes!
-
 LibrarianLib - An extensive collection of tools, utilities, and frameworks.
+
+Untill - Convert soil and paths back to dirt
 
 Crafted! - Improved crafting of vanilla items!
 
 Website Mod - Makes a website for a server.
-
-Villager Befriending - Makes it possible to befriend villagers
 
 UI Input Undo (Forge) - A client-side Minecraft mod that allows you to undo and redo text in UI input fields.
 
@@ -5300,7 +5304,11 @@ GPFlags - Player flags for grief prevention claims
 
 Dimension Update Fixer - Unyeets the Nether and End when a world is loaded without a dimension or is upgraded between Minecraft versions with dimension mods installed
 
+Lanyard - Customizable lanyards for in-game events.
+
 JumpVader - A server-side-only elevator mod for FabricMC using Polymer library
+
+MapRender - [WIP] A serverside mod bringing doom rendering to minecraft!
 
 Realistic Combat - A Minecraft mod that aims to make combat more realistic
 
@@ -5312,11 +5320,7 @@ More Doors - A Fabric Mod which adds new Doors & Trapdoors based from existing V
 
 Terraformed Api Reforged - Port of Terraformermc's Terraform api to forge
 
-Jack o'Golem - Causes golems spawned with Jack o'Lantern's to be possessed.
-
 Better Wandering Trader - A mod that makes the Wandering Trader a little bit more useful. 
-
-Untill - Convert soil and paths back to dirt
 
 Delicious Dishes - Adds in many cool new dishes with special features.
 
@@ -5324,19 +5328,19 @@ WAIG: Where Am I Going - Fabric mod for Minecraft, adds a minimal RPG-inspired c
 
 SpoornLoot - Loot, weapons, tools, armor, swords with random elements for fun
 
+Tinkerer's Statures - Adds 'statures' to origins, allowing players to pick from preset of sizes when creating their character.
+
 Disco - Modular music disc loader
 
 FarLands - Brings back the Far Lands in 1.7.10.
+
+Soul Vitric - Adds a soul sand varient of glass that is ghast-proof
 
 Sturdy Carts - Prevents 'Minecart with <Thing>' entities from breaking into a Minecart item and a 'Thing' item when broken.
 
 NuclearCraft - A complex nuclear engineering mod for Minecraft!
 
 Glassy - Simple mod adding glass related items
-
-Lanyard - Customizable lanyards for in-game events.
-
-MapRender - [WIP] A serverside mod bringing doom rendering to minecraft!
 
 Defiled Lands - Adds dangerous defiled biomes filled with unique dangers and treasures.
 
@@ -5353,6 +5357,8 @@ This is fine - Look the other way with style.
 Mystical Wildlife - Adds imaginary animals to your worlds.
 
 Mining Utility - Utility items & blocks for your mining pleasure!
+
+Mods in a Jar - Delicious mod cookies
 
 Enhanced Swords - A mod that allows you to upgrade your swords
 
@@ -5374,11 +5380,9 @@ TechnoTotem - Adds a powerful variant of the totem of undying, because Technobla
 
 Better Sculk - Adds 2 new types of Sculk to reward the farming of valuable mobs.
 
-Tinkerer's Statures - Adds 'statures' to origins, allowing players to pick from preset of sizes when creating their character.
+Succ™️ - A Minecraft mod about suction cups. Made for Modfest: Singularity.
 
 War-Hammers - adds warhammer as a new tool/weapon
-
-Soul Vitric - Adds a soul sand varient of glass that is ghast-proof
 
 GVault - Server-side mod adding vaults, ender-chest-style inventories.
 
@@ -5394,17 +5398,15 @@ Hat command - Hat command for servers
 
 Into The Void - Clip out of reality in a dark scary place....
 
-Mods in a Jar - Delicious mod cookies
-
 Reach Reducer - Handicap yourself to make fights harder by decreasing your reach distance.
 
 Wasaila - Wasaila (What Agricraft Stats Am I Looking At) adds back Waila support for Agricraft
 
+Recovery+ - A smarter recovery compass with waypoints
+
 Automated Cobble Miner - A nice and simple mod that automatically mines blocks at a given position.
 
 MoreRefinedStorage - Continuation of RefinedStorage for 1.12 with focus on performance and new features
-
-Succ™️ - A Minecraft mod about suction cups. Made for Modfest: Singularity.
 
 Coordinate Notes - This mod makes it easy to save your coordinates
 
@@ -5433,8 +5435,6 @@ Landmines - Landmines adds landmines that can explode, teleport, throw potions, 
 Good Gaming Minecraft - Features that should be in vanilla minecraft
 
 No Migration Capes - Removes Migration capes from the game
-
-Recovery+ - A smarter recovery compass with waypoints
 
 Repeat No More -  Make it so that you can't tick a repeater no mo' once it reaches full delay 
 
@@ -5471,6 +5471,8 @@ More Multi Tools - Shovel, axe, sword, hoe, pickaxe in one tool.
 Exploration+ - adds more vanilla style structures to the game
 
 World In A Jar - ever wanted to stuff an entire world in a jar? no? too bad! this mod squeezes entire worlds into jars for your enjoyment. play god or go home.
+
+Ingstorm - Adds Metroid Prime 2 style passive damage in a highly configurable way.
 
 Lighty - Another Light Overlay Mod
 
@@ -5515,8 +5517,6 @@ Thommas - Thommas is a fabric mod adding several new features including: ores, v
 Allow Chat - Allows you to use §
 
 Fix Keyboard on Linux - This is a simple mod which fixes some annoying bugs related to keyboard on Linux.
-
-Ingstorm - Adds Metroid Prime 2 style passive damage in a highly configurable way.
 
 XYZ - Shows overworld and nether coordinates on the HUD
 
@@ -5622,6 +5622,8 @@ Native Decorations - Adds more decoration blocks that fit perfectly into your wo
 
 Super Quilt - Supercharge your Minecraft Modded Experience!
 
+Tree Hat - Adds wearable tree hats.
+
 OpenBlocks Elevator for Fabric - A fabric port of the OpenBlocks Elevator, updated for 1.18.2 and up
 
 Kanaify Mod - Romaji-to-Kana/Kanji conversion for Fabric 
@@ -5653,8 +5655,6 @@ Master Weapons - Tools and weapons into the infinity!
 Mod Viewer - Adds a server-side user interface for viewing loaded mods to Minecraft.
 
 QForward - Proxy forwarding for Quilt modded servers.
-
-Tree Hat - Adds wearable tree hats.
 
 Turtle Soup - Turtle soup for the soul
 
@@ -5724,6 +5724,8 @@ Vanilla Cookbook - Adds food in a vanilla friendly way.
 
 Better Horses - Improve the horse breeding algorithm.
 
+abtools - Paxels, hammers and excavators for modern Minecraft (Fabric)
+
 Critical Shears - A mod for 1.19 allowing critical-hit shearing to collect more wool
 
 AutoTechno - Fork of autoGG for fabric to pay respect to Technoblade after games. 
@@ -5756,6 +5758,8 @@ Extended Ingame Hud - adds armor, weapon and statuseffects hud, legacy fabric mo
 
 CrashBrander - Small mod which adds your (modpack) branding to crash reports, useful for debugging!
 
+Souper - Adds Soup to Minecraft
+
 Modular Routers - A flexible mod for moving items, fluids, and energy around the world
 
 knights - Adds five new mobs and a few items.
@@ -5779,6 +5783,8 @@ Toggle Elytra - A Fabric mod that adds a key to toggle Elytra flight.
 Portable Tables - Adds portable work benches to minecraft!
 
 Voyager v2 - A Custom Origin.
+
+Restful Hellscape - Letting you sleep in the dimensions you're not supposed to.
 
 not red dust - enables customization or redstone dust look
 
@@ -5808,8 +5814,6 @@ Tale of Kingdoms: A new Conquest - The Tale of Kingdoms mod, revived.
 
 Minis - Adds mini player mobs
 
-Souper - Adds Soup to Minecraft
-
 Cooler Shields - Adds 5 new shields to minecraft
 
 MoreItems(Fabric) - This mod adds a lot of items(tools, blocks, etc.) that vanilla doesn't have!
@@ -5832,8 +5836,6 @@ AxolotlHats - Lets you put axolotls on your head
 
 BlossomTpa - Blossom-series /tpa command and utilities
 
-abtools - Paxels, hammers and excavators for modern Minecraft (Fabric)
-
 Sodi-Fine - A modpack that brings most features of optifine into a sodium modpack.
 
 V-Bucks - Adds V-Bucks to Minecraft.
@@ -5841,8 +5843,6 @@ V-Bucks - Adds V-Bucks to Minecraft.
 Quests - Add goals for your players
 
 Mazuri - Simple coins mod
-
-Restful Hellscape - Letting you sleep in the dimensions you're not supposed to.
 
 Scary Player - A Minecraft mod that makes it so that villagers will be scared of you while you are wearing or holding "Scary Items".
 
@@ -5894,6 +5894,8 @@ CubeController - A library for a fine control over the game
 
 Music Player - Plays the Minecraft music disks
 
+Don't Mine It - Prevents breaking of specific blocks.
+
 SplashAnimation - Play an animation at the very start of the game's loading.
 
 Toggle Sprint Display - Adds a HUD element that shows whether you're sprinting.
@@ -5931,8 +5933,6 @@ mobgrief - changes some annoying monster griefing behaviours
  Server Tab Info - A client and/or server mod that gives nice a way to view the mean tick time and ticks per second (TPS) of the game
 
 Quiltech - Quiltech is an experimental technology & magic modpack for Minecraft 1.18.2
-
-Don't Mine It - Prevents breaking of specific blocks.
 
 VilleMatica - Adds Custom Villages, Mobs, Items, and Really Anything Necessary for Vanilla!
 
@@ -6416,6 +6416,8 @@ Block Swap - A simple mod to replace a given block with another.
 
 Cobble Gen Haters - Water and Lava go hand in hand. No more pesky cobble/stone generation.
 
+Netherrocks - SimpleOres add-on: adds 6 new unique ores to the Nether, and a special furnace.
+
 ne0hud - A minimalistic Head-Up Display (HUD)
 
 Auto Feeder Helmet - Upgrade all your loved helmets, so they feed you while you do nothing
@@ -6441,6 +6443,8 @@ DefaultSpawnPoints - A server-side mod that allows setting player's default spaw
 Fast Redstone Utilities - Small mod adding three new zero-tick redstone components!
 
 Text Builders - Text builders are files in data packs that can build strings for use in text components.
+
+Assassin's Faith - Assassin's Creed in Minecraft! | ALPHA
 
 Kineticless: Bonk-B-Gone - Adds a hat curio that removes elytra wall damage
 
@@ -6516,8 +6520,6 @@ Hide Arrows - A mod to hide arrows once they've hit entities.
 
  Server Friendly Looting - Adds more server friendly ways of getting loot
 
-Assassin's Faith - Assassin's Creed in Minecraft! | ALPHA
-
 Chocolate Minecraft - A Minecraft Modpack that adds new and cut functionality while still making the game feel Vanilla.
 
 Mob Gems - Mob Gems is all about capturing mobs in diamonds to harness their powers!
@@ -6559,8 +6561,6 @@ ArthCore - A plugin providing essential features such as: Daily Restarts; /trans
 RecipeDisabler - A simple recipe disabler using a simple config file to avoid complex KubeJS or CraftTweaker script
 
 BeamPass - A mod that will let beacon beam pass through some blocks like the lodestone! 
-
-Netherrocks - SimpleOres add-on: adds 6 new unique ores to the Nether, and a special furnace.
 
 Energized Redstone - Harness the power of lightning to extend the length of Redstone!
 
@@ -6611,6 +6611,8 @@ Zoomify Classic - Zoomify, but on Minecraft Classic
 Essence - A light Minecraft fabric modpack that combines several simple mods together to enhance the vanilla game's experience without changing it
 
 Minecraft X - Minecraft but Better
+
+SnapStone - Use redstone with a snap of your fingers.
 
 Beloved Keybindings - Setups your favorite Keybindings for you :D
 
@@ -6685,8 +6687,6 @@ Achoo - Makes creepers sneeze instead of blowing up
 SpeechToSpell - Do magic with your voice
 
 TrinkPlus - Adds extra trinkets to Trinkets and Baubles
-
-SnapStone - Use redstone with a snap of your fingers.
 
 SpongeBob Squarepants Reload | ONLY FORGE - Spongebob Squarepants Reload mod adds Spongebob to minecraft, as well as many different things and mobs related to the cartoon SpongeBob SquarePants. 
 
@@ -7286,6 +7286,8 @@ ServerSideKoreanChat - serverside korean chat translator
 
 More Mushroom Stew - Add Nether Mushroom Stew
 
+MCCI Utils - A utility mod for the minecraft server MCC Island
+
 more turtles - ads five new turtles with different uses
 
 Rotater - Makes Tater rotate
@@ -7356,8 +7358,6 @@ Gourmet Example - Sap - Crumb don't eat the sap!
 
 Y Is There AutoJump - Stop the annoying autojump is on by default feature.
 
-MCCI Utils - A utility mod for the minecraft server MCC Island
-
 Bozzz's Optimizations - A collection of mods that aims to provde a better vanilla Minecraft experience.
 
 Eureka! - Eureka! Build ships in Minecraft out of ordinary blocks, with physics.
@@ -7425,6 +7425,8 @@ MC-Alias - Barebones command shortcut/aliases for servers
 Bean Coin Mod - This mod adds bean coins to the game.
 
 Inventory Essentials - Basic inventory tweaks. Lightweight and compatible.
+
+Regenerations? - This mod revamps existing biomes in a vanilla manner
 
 YAQOL - Yet Another Quality Of Life Mod
 
@@ -7511,8 +7513,6 @@ AdvancedTeleport - A rapidly growing teleportation plugin looking to break the b
 Bomb Portal - Creates a portal to the selected dimension at the location of the landing.
 
 RedPower 2 Control - The Control module of RedPower 2
-
-Regenerations? - This mod revamps existing biomes in a vanilla manner
 
 Thermal Conversion - Universal Energy Translation using basic Furnace mechanics
 
@@ -8332,6 +8332,8 @@ Palladium - Download Datapacks (and later Plugins) with ingame commands!
 
 Bars for Days - A mod that allows more bars similar to the boss bar
 
+akkamaddi's Classical Alchemy - SimpleOres add-on: adds 5 new alloys of copper, tin, and bronze.
+
 HarmonyCraft - Add features to Minecraft from the world of MLP FiM
 
 OreLibrary - It is mainly an Addon for Solar Generation by 3divad99
@@ -8417,8 +8419,6 @@ Stoneblock Worldgen - A simple mod that adds a stoneblock world preset
 StatuesMod Fix - A few small fixes for StatuesMod
 
 Glimdrop Guttering - Chat integration for the new streaming service Glimesh.tv
-
-akkamaddi's Classical Alchemy - SimpleOres add-on: adds 5 new alloys of copper, tin, and bronze.
 
 SignSearch - Asynchronously search signs matching text near you
 

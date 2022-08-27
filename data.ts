@@ -18,30 +18,26 @@ async function grabData(page = 0): Promise<{ hits: Mod[] }> {
 }
 
 // Grab all of the data from modrinth
-async function getAllData(): Promise<Mod[]> {
-  let data: Mod[] = [];
+async function *getAllData(): AsyncGenerator<Mod> {
   let page = 0;
   while (true) {
-    console.log("Grabbing page", page);
-    const newData = await grabData(page);
-    if (newData.hits.length < 100) {
+    const data = await grabData(page);
+    if (data.hits.length < 100) {
       break;
     }
-    data = data.concat(newData.hits);
+    for (const mod of data.hits) {
+      yield mod;
+    }
     page++;
   }
-  return data;
 }
 
 const data = await getAllData();
 
-await Deno.writeTextFile("data.json", JSON.stringify(data));
-
 await Deno.writeTextFile("data.txt", `A list of different Minecraft Mods and their descriptions:
 
 `);
-
-for (const mod of data) {
+for await (const mod of data) {
     await Deno.writeTextFile("data.txt", `${mod.title} - ${mod.description}\n\n`, { append: true });
 }
 
