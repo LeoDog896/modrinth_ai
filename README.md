@@ -2,4 +2,4 @@
 
 generate random modrinth ideas:
 
-https://www.tensorflow.org/install/pip#install_cuda_with_apt
+https://colab.research.google.com/github/LeoDog896/modrinth_ai/blob/master/notebook.ipynb
